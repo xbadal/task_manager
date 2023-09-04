@@ -1,0 +1,10 @@
+const String app_name = 'Any Task';
+const String createNewTask = 'Create new task';
+const String close = 'Close';
+const String done = 'Done';
+const String delete = 'Delete';
+const String dueDate = 'Due Date';
+const String send_notification = 'Send Notification';
+const String all = 'All';
+const String completed = 'Completed';
+const String upcoming = 'Upcoming';
